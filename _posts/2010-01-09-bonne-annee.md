@@ -8,7 +8,7 @@ tags: [blog, sculpteur, Guiro]
 Bonne année à tous.  
 Quelques nouveautés à Pont-Aven:
 <figure>
-	<img src="/images/rapel.jpg">
+	<img src="/images/escalade.jpg">
 	<figcaption>Dernier rappel avant poursuite sinon c'est l'escalade</figcaption>
 </figure>
 <figure>
