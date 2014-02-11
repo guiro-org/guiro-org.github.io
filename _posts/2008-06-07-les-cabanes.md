@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les cabanes"
+title: "Les Cabanes"
 description: "Une baleine à remonté l'Aven et s'est échouée à Nizon à la fête des cabanes le 8 juin."
 category: articles
 tags: [blog, sculpteur, Guiro]
