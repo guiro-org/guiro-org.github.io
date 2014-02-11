@@ -2,7 +2,7 @@ title:            Guy Raud dit Guiro
 tagline:          Sculpteur plasticien
 description:      Personnages en mouvement à la limite de la rupture, de la chute
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://guiro.org
+url:              
 
 # Owner/author information
 owner:
@@ -25,15 +25,15 @@ links:
   - title: Acceuil
     url: /
   - title: A propos
-    url: /about/
+    url: /about
   - title: Articles
-    url: /articles/
+    url: /articles
   - title: Expositions
-    url: /expo/
+    url: /expositions
   - title: Photos
-    url: /photo/
+    url: /photos
   - title: Presse
-    url: /presse/
+    url: /press
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
@@ -42,7 +42,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:title
 
 kramdown:
   auto_ids: true
