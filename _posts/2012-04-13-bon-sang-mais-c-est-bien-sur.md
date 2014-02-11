@@ -6,7 +6,7 @@ category: articles
 tags: [blog, expo, Guiro, Lucy Boureau]
 ---
 
-Inaugurée en mars 2012, l'hôpital de Pontivy Kério vous laissera entrevoir une creation originale de Lucy Boureau et moi même.  
+Inaugurée en mars 2012, l'hôpital de Pontivy Kério vous laissera entrevoir une creation originale en binôme avec Lucy Boureau.
 
 <figure>
 	<img src="/images/bon-sang.jpg">
