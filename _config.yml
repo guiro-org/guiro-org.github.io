@@ -1,26 +1,17 @@
-title:            Guiro
-tagline:          Galerie de sculptures
-description:      Guy Raud dit Guiro, un sculpteur 
+title:            Guy Raud dit Guiro
+tagline:          Sculpteur plasticien
+description:      Personnages en mouvement à la limite de la rupture, de la chute
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://guiro.org
 
 # Owner/author information
 owner:
-  name:           Guiro
+  name:           Guy Raud dit Guiro
   avatar:         bio-photo.jpg
-  bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
+  bio:            "Guy Raud dit 'Guiro', créateur de mouvement Guiro nous parle d’élégance, de déséquilibre équilibré.Pour lui c’est avec l’acier et l’inox qu’il crée ses personnages pleins d'élégance, filiformes, toujours légers, toujours vibrants dans leur équilibre"
   email:          guy.raud@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        sculpteurguiro
-  facebook:       sculpteurguiro
-  github:         sculpteurguiro
-  linkedin:       
-  instagram:      
-  lastfm:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -31,14 +22,18 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Accueil
+  - title: Acceuil
     url: /
   - title: A propos
     url: /about/
-  - title: Amis
-    url: /friends/
+  - title: Articles
+    url: /articles/
+  - title: Expositions
+    url: /expo/
   - title: Photos
-    url: /photos/
+    url: /photo/
+  - title: Presse
+    url: /presse/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris

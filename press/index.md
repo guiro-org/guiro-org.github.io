@@ -1,7 +1,8 @@
 ---
-layout: home
-description: "Guy Raud dit Guiro, sculpteur plasticien"
+layout: page
+description: "Guiro dans la presse"
 image:
   feature: texture-feature-00.jpg
   credit: Thierry Huteau 
 ---
+
