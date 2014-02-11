@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bon sang mais c'est bien sûr !"
+title: "Bon Sang Mais C'est Bien Sûr !"
 description: "Commande publique hôpital de Pontivy Kério"
 category: articles
 tags: [blog, expo, Guiro, Lucy Boureau]
