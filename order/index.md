@@ -36,7 +36,7 @@ Réalisation d'une monumentale en cuivre gravé a l'acide: **"En savoir plus"**
 2000
 ====
 **Pares** (Espagne) - Médiateque.  
-Réalisation d'une sculpture en acier: **"Le Forgeron"**  
+Réalisation d'une sculpture en acier: **"Le Forgeron"**
 
 **Quéven** (France) - Golf Val Quéven.  
 Réalisation d'un trophé: **"Les trois tees"**  
