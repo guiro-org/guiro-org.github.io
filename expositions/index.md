@@ -1,9 +1,6 @@
 ---
 layout: page
 description: "Guiro en expositions"
-image:
-  feature: texture-feature-00.jpg
-  credit: Thierry Huteau 
 ---
 - 2008: Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29  
   Participation aux cabanes Nizon - Pont-Aven / 29  
