@@ -2,19 +2,52 @@
 layout: page
 description: "Guiro en expositions"
 ---
+
+2014
+====
+- Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
+
+
+2013
+====
+- Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
+- Galerie 33 - Lyon / 69
+
+2012
+====
+- Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
+- Un jardin, un artiste - Mauves-sur-loire / 44
+- Salon de l'habitat - Quimper / 29
+
+2011
+====
+- Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
+
+2010
+====
+- Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
+
+2009
+====
+- Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
+- In Door - Chapell du Saint Esprit - Auray / 56
+- participation aux cabanes Nizon - Pont-Aven / 29
+
 2008
 ====
 - Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29  
--  Participation aux cabanes Nizon - Pont-Aven / 29  
--  Réalisation du trophée des 24h de canoë - Lochrist / 56  
+- Participation aux cabanes Nizon - Pont-Aven / 29  
+- Réalisation du trophée des 24h de canoë - Lochrist / 56  
 
 2007
 ====
+- Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
 - Expo Guiro / Le Sage, Chapelle du Temple - Quistinic / 56  
 - Invité d’honneur expo “l’ocre rouge” - Lanester / 56  
 
 2006
 ====
+- Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
 - Expo personnelle Chapelle de St Cado - Banalec / 29  
 - Arts capella 8ème édition - Sulniac / 56  
 - 8ème biennale du Haut Poitou prix du conseil régional - Lencloitre / 56  

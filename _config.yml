@@ -22,7 +22,7 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Acceuil
+  - title: Accueil
     url: /
   - title: A propos
     url: /about
@@ -32,7 +32,7 @@ links:
     url: /expositions
   - title: Photos
     url: /photos
-  - title: Commandes Publique
+  - title: Commandes Publiques
     url: /order
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

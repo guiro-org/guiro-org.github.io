@@ -4,7 +4,7 @@ title: A propos
 tagline: Guiro, bio
 modified: 10-2-2014
 ---
-Je m'apelle **Guy Raud** dit **Guiro**, je suis **sculpteur** plasticien. J'expose dans ma gallerie a **Pont-Aven** France depuis 2006.
+Je m'apelle **Guy Raud** dit **Guiro**, je suis **sculpteur** plasticien. J'expose dans ma galerie a **Pont-Aven** France depuis 2006.
 
 ---
 Guiro nous parle d’élégance, de déséquilibre équilibré.  
