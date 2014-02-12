@@ -32,8 +32,8 @@ links:
     url: /expositions
   - title: Photos
     url: /photos
-  - title: Presse
-    url: /press
+  - title: Commande Public
+    url: /order
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
