@@ -32,7 +32,7 @@ links:
     url: /expositions
   - title: Photos
     url: /photos
-  - title: Commande Public
+  - title: Commandes Publique
     url: /order
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
