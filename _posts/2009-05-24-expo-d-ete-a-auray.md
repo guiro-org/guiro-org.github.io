@@ -3,7 +3,7 @@ layout: post
 title: "Expo D'été a Auray"
 description: "Inauguration de la sculpture à la maison de l'enfance de Lanester"
 category: articles
-tags: [blog, sculpteur, expo, Guiro]
+tags: [blog, Guiro, expo]
 ---
 Chapelle du Saint Esprit du 6 juin au 26 septembre.  
 Concept original.  

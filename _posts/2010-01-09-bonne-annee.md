@@ -3,7 +3,7 @@ layout: post
 title: "Bonne Année"
 description: "Quelques nouveautés à Pont-Aven"
 category: articles
-tags: [blog, sculpteur, Guiro]
+tags: [blog, Guiro, galerie]
 ---
 Bonne année à tous.  
 Quelques nouveautés à Pont-Aven:

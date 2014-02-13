@@ -3,7 +3,7 @@ layout: post
 title: "Au Fil De L'Aven"
 description: "L'art s'expose à Fleur d'Aven"
 category: articles
-tags: [blog, sculpteur, Guiro]
+tags: [blog, Guiro, expo]
 ---
 L'art s'expose à Fleur d'Aven
 <figure>

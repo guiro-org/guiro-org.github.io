@@ -3,7 +3,7 @@ layout: post
 title: "Exposition Arts Capella"
 description: "Guiro expose à la chapelle du Gorvéllo Sulniac"
 category: articles
-tags: [blog, sculpteur, Guiro, expo]
+tags: [blog, Guiro, expo]
 ---
 Exposition ARTS CAPELLA  
 Du 01 août au 15 août  

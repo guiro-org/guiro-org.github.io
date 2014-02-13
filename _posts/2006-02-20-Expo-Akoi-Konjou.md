@@ -3,7 +3,7 @@ layout: post
 title: "Expo AKOI KONJOU"
 description: "Exposition du 20 février au 18 mars"
 category: articles
-tags: [blog, sculpteur, Guiro, expo]
+tags: [blog, Guiro, expo]
 ---
 Exposition du 20 février au 18 mars.  
 Hotel de ville de LANESTER.  

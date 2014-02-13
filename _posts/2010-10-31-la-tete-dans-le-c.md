@@ -3,7 +3,7 @@ layout: post
 title: "La Tête Dans le C"
 description: "Un bronze pour changer"
 category: articles
-tags: [blog, bronze, Guiro]
+tags: [blog, Guiro, galerie, bronze]
 ---
 Un petit bonjour à tous ceux qui regardent le blog régulièrement.  
 <figure>

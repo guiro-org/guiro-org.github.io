@@ -3,7 +3,7 @@ layout: post
 title: "La Fête Des Cabanes à Nizon"
 description: "L'équipe de la Belle Angèle et Guiro présentent leur cabane à Nizon"
 category: articles
-tags: [blog, sculpteur, Guiro]
+tags: [blog, Guiro, expo]
 ---
 Gite rural  
 résidence le terrier  

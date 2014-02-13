@@ -3,7 +3,7 @@ layout: post
 title: "Salon Expo de la petite édition"
 description: "Sculpture à Poul Fetan"
 category: articles
-tags: [blog, sculpteur, Guiro, expo]
+tags: [blog, Guiro, expo]
 ---
 Sculpture à Poul Fetan  
 

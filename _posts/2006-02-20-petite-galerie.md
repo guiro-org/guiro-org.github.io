@@ -3,7 +3,7 @@ layout: post
 title: "Petite Galerie"
 description: "Ouverture de ma Galerie a Pont Aven"
 category: articles
-tags: [blog, sculpteur, Guiro, expo]
+tags: [blog, Guiro, galerie]
 ---
 La galerie
 <figure>

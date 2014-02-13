@@ -3,7 +3,7 @@ layout: post
 title: "Bonjour M'sieurs Dames"
 description: "Bonjour de Pont-Aven"
 category: articles
-tags: [blog, sculpteur, Guiro]
+tags: [blog, Guiro, galerie]
 ---
 Bonjour de Pont-Aven
 <figure>

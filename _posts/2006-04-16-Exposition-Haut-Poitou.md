@@ -3,7 +3,7 @@ layout: post
 title: "Exposition Haut Poitou"
 description: "Guiro expose à la biennale artistique du haut poitou"
 category: articles
-tags: [blog, sculpteur, Guiro, expo]
+tags: [blog, Guiro, expo]
 ---
 GUIRO expose à la:  
 BIENNALE ARTISTIQUE DU HAUT POITOU  

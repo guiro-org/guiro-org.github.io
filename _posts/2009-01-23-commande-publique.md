@@ -3,7 +3,7 @@ layout: post
 title: "Commande Publique"
 description: "Commande publique de la maison de la petite enfance de lanester"
 category: articles
-tags: [blog, sculpteur, Guiro]
+tags: [blog, Guiro, Lucy Boureau, commande]
 ---
 En duo avec Lucy Boureau, réalisation d'une sculpture au printemps 2009.  
 La famille brin d'acier dans un monde bleu de bulles.  

@@ -3,7 +3,7 @@ layout: post
 title: "Expo Lanester"
 description: "Guiro invité d'honneur au 12ème salon des artistes de Lanester"
 category: articles
-tags: [blog, sculpteur, Guiro]
+tags: [blog, Guiro, expo]
 ---
 Guiro invité d'honneur au 12ème salon des artistes de Lanester.  
 <figure>

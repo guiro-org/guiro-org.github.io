@@ -3,7 +3,7 @@ layout: post
 title: "Qui Va à L'échasse..."
 description: "Sculpture de la serie 'vieux jeux'"
 category: articles
-tags: [blog, sculpteur, Guiro, expo]
+tags: [blog, Guiro, galerie]
 ---
 Sculpture de la serie "vieux jeux"
 <figure>
