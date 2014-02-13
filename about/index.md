@@ -15,3 +15,13 @@ Bien que Guiro soit président de l'association Art Fusion, que le travail du br
 Pour lui c’est avec l’acier et l’inox, qu’il crée ses personnages filiformes, toujours légers, toujours vibrant dans leur équilibre.  
 Ses personnages sont pleins de grâce et de bonne humeur.  
 Guiro a réalisé des sculptures pour plusieurs commandes publiques notamment à Guidel et à Parès en Espagne.
+Pour en savoir plus voir la section (commandes publiques)[{{/order}}]
+
+---
+Guiro aussi recu des prix:
+8ème biennale du Haut Poitou: **prix du conseil régional** (Lencloitre - 56)  
+Salon de la petite mer: 1er prix de sculpture (Riantec - 56)
+**1er prix de sculpture** (Gavres - 56)  
+La Boite aux lettres: **2ème prix de sculpture** (Plouay - 56)  
+Championnat du monde de cyclisme: **2ème prix de sculpture** (Plouay - 56)  
+
