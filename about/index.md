@@ -20,7 +20,7 @@ Pour en savoir plus voir la section [commandes publiques]({{site.url}}/order)
 ---
 Guiro aussi recu des prix:  
 8ème biennale du Haut Poitou: **prix du conseil régional** (Lencloitre - 56)  
-Salon de la petite mer: 1er prix de sculpture (Riantec - 56)  
+Salon de la petite mer: **1er prix de sculpture** (Riantec - 56)  
 **1er prix de sculpture** (Gavres - 56)  
 La Boite aux lettres: **2ème prix de sculpture** (Plouay - 56)  
 Championnat du monde de cyclisme: **2ème prix de sculpture** (Plouay - 56)  
