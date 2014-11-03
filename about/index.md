@@ -10,7 +10,7 @@ Je m'apelle **Guy Raud** dit **Guiro**, je suis **sculpteur** plasticien. J'expo
 Guiro nous parle d’élégance, de déséquilibre équilibré.  
 Personnages en mouvement à la limite de la rupture, de la chute,un univers graphique, ludique, un modelé très personnel.  
 Toujours une pointe d’humour, une double lecture, chaque pièce raconte une histoire.  
-Créateur de mouvement, il tente de faire plier l’acier à sa convenance.  
+Créateur de mouvement, il tente de faire plier le métal à sa convenance.  
 Pour lui c’est avec l’acier et l’inox, qu’il crée ses personnages filiformes, toujours légers, toujours vibrant dans leur équilibre.  
 Ses personnages sont pleins de grâce et de bonne humeur.  
 Guiro a réalisé des sculptures pour plusieurs commandes publiques notamment à Guidel et à Parès en Espagne.
