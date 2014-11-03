@@ -5,8 +5,8 @@ description: "Guiro en expositions"
 
 2014
 ====
+- Villa Daumier - Chemin Bescherelle, Valmondois / 95
 - Expo permanente - Galerie 7 rue du Port - Pont-Aven / 29
-
 
 2013
 ====
