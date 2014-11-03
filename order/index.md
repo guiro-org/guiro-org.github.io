@@ -6,12 +6,12 @@ description: "Commande publique"
 2012-2013
 =========
 **Pontivy** (France) - Hôpital Kêrio. 
-Réalisation d'une sculpture contemporaine: **"Bon sang mais c'est bien sûr!"**  
+Réalisation d'une sculpture contemporaine: **"Bon sang mais c'est bien sûr!"** en binôme avec Lucy Boureau.  
 
 2009
 ====
 **Lanester** (France) - Maison De l'Enfance.  
-Rélisation d'une sculpture contemporaine: **"Un Monde Bleu"**  
+Rélisation d'une sculpture contemporaine: **"Un Monde Bleu"** en binôme avec Lucy Boureau.   
 
 2008
 ====
