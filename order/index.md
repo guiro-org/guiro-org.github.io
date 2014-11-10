@@ -44,3 +44,6 @@ Réalisation d'un trophé: **"Les trois tees"**
 ========
 **Lochrist** (France) - Parc D'eau vive.  
 Réalisation de **garde corps** et de **passerelles** originales pour le parc d'eaux vives sur la riviere du blavet, ancien site des forges d'Hennebont.  
+
+Commande privées
+----------------
