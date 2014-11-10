@@ -18,7 +18,7 @@ Pour en savoir plus voir la section [commandes publiques]({{site.url}}/order)
 
 ---
 Guiro aussi recu des prix:  
-2006: 8ème biennale du Haut Poitou: **prix du conseil régional** (Lencloitre - 56)  
+2006: 8ème biennale du Haut Poitou: **prix du conseil régional** (Lencloitre - 86)  
 2004: Salon de la petite mer: **1er prix de sculpture** (Riantec - 56)  
 2002: **1er prix de sculpture** (Gavres - 56)  
 2001: La Boite aux lettres: **2ème prix de sculpture** (Plouay - 56)  
