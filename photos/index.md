@@ -20,12 +20,8 @@ Sculptures:
 </figure><br />
 
 <figure>
-        <img src="/images/arums-citrouilles.jpg">
-        <figcaption>la portes des Arômes: acier</figcaption>
-</figure><br /> 
-<figure>
-        <img src="/images/baleine.jpg">
-        <figcaption>C'est assez je vais le dire à ma mer: acier</figcaption>
+        <img src="/images/dame-nage.jpg">
+        <figcaption>la Dame de nage: acier et ardoise</figcaption>
 </figure><br />
 
 <h1> Autres sculptures</h1> 
@@ -38,7 +34,11 @@ Sculptures:
         <figcaption>M'sieurs Dames: bronze</figcaption>
 </figure><br />
 <figure>
-        <img src="/images/dame-nage.jpg">
-        <figcaption>la Dame de nage: acier et ardoise</figcaption>
+        <img src="/images/arums-citrouilles.jpg">
+        <figcaption>la portes des Arômes: acier</figcaption>
+</figure><br /> 
+<figure>
+        <img src="/images/baleine.jpg">
+        <figcaption>C'est assez je vais le dire à ma mer: acier</figcaption>
 </figure><br />
 
