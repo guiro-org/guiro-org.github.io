@@ -1,48 +1,49 @@
 ---
 layout: page
 title: Photos
-tagline: Quelque photos
+tagline: Sculptures
 tags: [photo]
 ---
-Quelque photos
+Sculptures: 
 
 <figure>
-        <img src="/images/arums-citrouilles.jpg">
-        <figcaption>Porte citrouilles</figcaption>
-</figure><br /> 
-<figure>
-        <img src="/images/baleine.jpg">
-        <figcaption>Baleine</figcaption>
-</figure><br /> 
-<figure>
         <img src="/images/billes.jpg">
-        <figcaption>Billes</figcaption>
+        <figcaption>Billes en tete</figcaption>
 </figure><br /> 
 <figure>
         <img src="/images/bleu-de-bulle.jpg">
-        <figcaption>Bleu de bulle</figcaption>
+        <figcaption>Un monde bleu</figcaption>
 </figure><br />  
 <figure>
         <img src="/images/bon-sang.jpg">
-        <figcaption>Bon Sang</figcaption>
+        <figcaption>Bon Sang mais c'est bien sur</figcaption>
 </figure><br />
 <figure>
         <img src="/images/bonjour.jpg">
-        <figcaption>Bonjour</figcaption>
+        <figcaption>M'sieur Dames</figcaption>
 </figure><br />
 <figure>
         <img src="/images/dame-nage.jpg">
-        <figcaption>Dame nage</figcaption>
+        <figcaption>la Dame de nage</figcaption>
 </figure><br />
 <figure>
         <img src="/images/escalade.jpg">
-        <figcaption>Escalade</figcaption>
+        <figcaption>1er rapel avant poursuite</figcaption>
 </figure><br />
 <figure>
         <img src="/images/sauterie.jpg">
-        <figcaption>Sauterie</figcaption>
+        <figcaption>Petite Sauterie</figcaption>
 </figure><br />
 <figure>
         <img src="/images/sur-le-fil.jpg">
         <figcaption>Sur Le fil</figcaption>
 </figure><br />
+
+<figure>
+        <img src="/images/arums-citrouilles.jpg">
+        <figcaption>la portes des Aromes</figcaption>
+</figure><br /> 
+<figure>
+        <img src="/images/baleine.jpg">
+        <figcaption>C'est assez je vais le dire a ma mer</figcaption>
+</figure><br /> 
