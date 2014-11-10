@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photos
-tagline: Sculptures
+title: Sculptures acier et inox
+tagline: 
 tags: [photo]
 ---
 Sculptures: 
