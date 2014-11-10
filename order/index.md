@@ -55,7 +55,7 @@ Réalisation de **garde corps** et de **passerelles** originales pour le parc d'
 
 Commande privées
 ----------------
-**Paris** (France) - Nouvelles portes.  
+**Paris** (France) - Nouvelles portes a Paris.  
 la porte des Arômes et la porte des Citrouilles.  
 <figure>
         <img src="/images/arums-citrouilles.jpg">

@@ -32,10 +32,6 @@ tags: [photo]
         <figcaption>M'sieurs Dames: bronze</figcaption>
 </figure><br />
 <figure>
-        <img src="/images/arums-citrouilles.jpg">
-        <figcaption>la portes des Arômes: acier</figcaption>
-</figure><br /> 
-<figure>
         <img src="/images/baleine.jpg">
         <figcaption>C'est assez je vais le dire à ma mer: acier</figcaption>
 </figure><br />
