@@ -13,8 +13,8 @@ Toujours une pointe d’humour, une double lecture, chaque pièce raconte une hi
 Créateur de mouvement, il tente de faire plier le métal à sa convenance.  
 Pour lui c’est avec l’acier et l’inox, qu’il crée ses personnages filiformes, toujours légers, toujours vibrant dans leur équilibre.  
 Ses personnages sont pleins de grâce et de bonne humeur.  
-Guiro a réalisé des sculptures pour plusieurs commandes publiques notamment à Guidel et à Parès en Espagne.
-Pour en savoir plus voir la section [commandes publiques]({{site.url}}/order)
+Guiro a réalisé des sculptures pour plusieurs [commandes publiques]({{site.url}}/order) notamment à Guidel et à Parès en Espagne.  
+L'oeuvre de [Guiro en photos]({{site.url}}/photos).  
 
 ---
 Guiro aussi recu des prix:  
