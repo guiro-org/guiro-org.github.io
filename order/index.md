@@ -7,11 +7,20 @@ description: "Commande publique"
 =========
 **Pontivy** (France) - Hôpital Kêrio. 
 Réalisation d'une sculpture contemporaine: **"Bon sang mais c'est bien sûr!"** en binôme avec Lucy Boureau.  
+<figure>
+        <img src="/images/bon-sang.jpg">
+        <figcaption>Bon Sang mais c'est bien sur: fil de fer epoxy méthacrylate</figcaption>
+</figure><br />
 
 2009
 ====
 **Lanester** (France) - Maison De l'Enfance.  
 Rélisation d'une sculpture contemporaine: **"Un Monde Bleu"** en binôme avec Lucy Boureau.   
+<figure>
+        <img src="/images/bleu-de-bulle.jpg">
+        <figcaption>Un monde bleu: fil de fer epoxy méthacrylate</figcaption>
+</figure><br />
+<figure>
 
 2008
 ====
