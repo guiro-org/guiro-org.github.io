@@ -7,8 +7,8 @@ tags: [photo]
 Quelque photos
 
 <figure>
-        <img src="/images/arums-citrouiles.jpg">
-        <figcaption>Porte citrouiles</figcaption>
+        <img src="/images/arums-citrouilles.jpg">
+        <figcaption>Porte citrouilles</figcaption>
 </figure>
 
 <figure>
