@@ -4,8 +4,6 @@ title: Sculptures acier et inox
 tagline: 
 tags: [photo]
 ---
-Sculptures: 
-
 <figure>
         <img src="/images/escalade.jpg">
         <figcaption>1er rappel avant poursuite: acier</figcaption>
