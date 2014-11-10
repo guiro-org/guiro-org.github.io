@@ -39,4 +39,3 @@ tags: [photo]
         <img src="/images/baleine.jpg">
         <figcaption>C'est assez je vais le dire à ma mer: acier</figcaption>
 </figure><br />
-

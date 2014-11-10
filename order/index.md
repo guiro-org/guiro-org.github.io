@@ -20,7 +20,6 @@ Rélisation d'une sculpture contemporaine: **"Un Monde Bleu"** en binôme avec L
         <img src="/images/bleu-de-bulle.jpg">
         <figcaption>Un monde bleu: fil de fer epoxy méthacrylate</figcaption>
 </figure><br />
-<figure>
 
 2008
 ====
@@ -56,3 +55,9 @@ Réalisation de **garde corps** et de **passerelles** originales pour le parc d'
 
 Commande privées
 ----------------
+**Paris** (France) - Porte
+Nouvelles portes à Paris, la porte des Arômes et la porte des Citrouilles.
+<figure>
+        <img src="/images/arums-citrouilles.jpg">
+        <figcaption>la portes des Arômes: acier</figcaption>
+</figure><br />
