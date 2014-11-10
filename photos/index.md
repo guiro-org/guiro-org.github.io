@@ -8,42 +8,42 @@ Sculptures:
 
 <figure>
         <img src="/images/billes.jpg">
-        <figcaption>Billes en tete</figcaption>
+        <figcaption>Billes en tête: acier</figcaption>
 </figure><br /> 
 <figure>
         <img src="/images/bleu-de-bulle.jpg">
-        <figcaption>Un monde bleu</figcaption>
+        <figcaption>Un monde bleu: fil de fer epoxy méthacrylate</figcaption>
 </figure><br />  
 <figure>
         <img src="/images/bon-sang.jpg">
-        <figcaption>Bon Sang mais c'est bien sur</figcaption>
+        <figcaption>Bon Sang mais c'est bien sur: fil de fer epoxy méthacrylate</figcaption>
 </figure><br />
 <figure>
         <img src="/images/bonjour.jpg">
-        <figcaption>M'sieur Dames</figcaption>
+        <figcaption>M'sieurs Dames: bronze</figcaption>
 </figure><br />
 <figure>
         <img src="/images/dame-nage.jpg">
-        <figcaption>la Dame de nage</figcaption>
+        <figcaption>la Dame de nage: acier et ardoise</figcaption>
 </figure><br />
 <figure>
         <img src="/images/escalade.jpg">
-        <figcaption>1er rapel avant poursuite</figcaption>
+        <figcaption>1er rappel avant poursuite: acier</figcaption>
 </figure><br />
 <figure>
         <img src="/images/sauterie.jpg">
-        <figcaption>Petite Sauterie</figcaption>
+        <figcaption>Petite Sauterie: acier</figcaption>
 </figure><br />
 <figure>
         <img src="/images/sur-le-fil.jpg">
-        <figcaption>Sur Le fil</figcaption>
+        <figcaption>Sur Le fil: acier</figcaption>
 </figure><br />
 
 <figure>
         <img src="/images/arums-citrouilles.jpg">
-        <figcaption>la portes des Aromes</figcaption>
+        <figcaption>la portes des Arômes: acier</figcaption>
 </figure><br /> 
 <figure>
         <img src="/images/baleine.jpg">
-        <figcaption>C'est assez je vais le dire a ma mer</figcaption>
+        <figcaption>C'est assez je vais le dire à ma mer: acier</figcaption>
 </figure><br /> 
