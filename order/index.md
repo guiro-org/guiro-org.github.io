@@ -59,5 +59,5 @@ Commande privées
 la porte des Arômes et la porte des Citrouilles.  
 <figure>
         <img src="/images/arums-citrouilles.jpg">
-        <figcaption>la portes des Arômes: acier</figcaption>
+        <figcaption>la portes des Arums: acier</figcaption>
 </figure><br />
