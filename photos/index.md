@@ -126,7 +126,7 @@ tags: [photo]
 </figure><br />
 <figure>
         <img src="/images/s_envoyer_en_l_air1_0.jpg">
-        <img src="/images/s_envoyer_en_l_air1_0.jpg">
+        <img src="/images/s_envoyer_en_l_air1_1.jpg">
         <figcaption>S'envoyer en l'air: acier (coll. part.)</figcaption>
 </figure><br />
 <figure>
