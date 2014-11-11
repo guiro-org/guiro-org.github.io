@@ -13,7 +13,7 @@ tags: [photo]
 <figure>
         <img src="/images/toujours_plus_haut0.jpg">
         <img src="/images/toujours_plus_haut1.jpg">
-        <figcaption>toujours plus haut: acier et grnite (coll. part.)</figcaption>
+        <figcaption>toujours plus haut: acier et granite (coll. part.)</figcaption>
 </figure><br />
 
 <figure>
