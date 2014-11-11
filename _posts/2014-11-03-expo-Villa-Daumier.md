@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Expo Villa Daumier"
-description: "Expo a la Villa Daumier du 29/11 au 21/12"
+title: "Expo Villa Daumier du 29 novembre au 21 Decembre 2014"
+description: ""
 category: articles
 tags: [blog, Guiro, expo, Villa Daumier]
 ---
