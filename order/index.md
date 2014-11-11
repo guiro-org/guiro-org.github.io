@@ -61,7 +61,7 @@ Réalisation d'une monumentale en cuivre gravé a l'acide: **"En savoir plus"**
         <img src="/images/en_savoir_plus0.jpg">
         <img src="/images/en_savoir_plus1.jpg">
         <img src="/images/en_savoir_plus2.jpg">
-        <img src="/images/en_savoir_plus3.jpg"
+        <img src="/images/en_savoir_plus3.jpg">
         <img src="/images/en_savoir_plus4.jpg">
         <img src="/images/en_savoir_plus5.jpg">
         <img src="/images/en_savoir_plus6.jpg">
