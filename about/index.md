@@ -5,6 +5,7 @@ tagline: Guiro, bio
 modified: 10-2-2014
 ---
 Je m'apelle **Guy Raud** dit **Guiro**, je suis **sculpteur** plasticien. J'expose dans ma galerie a **Pont-Aven** France depuis 2006.
+Vous pouvez contacter Guiro par <a href="mailto:guy.raud@gmail.com">email</a>.
 
 ---
 Guiro nous parle d’élégance, de déséquilibre équilibré.  
@@ -25,7 +26,6 @@ Guiro aussi recu des prix:
 2000: Championnat du monde de cyclisme: **2ème prix de sculpture** (Plouay - 56)  
 
 ---
-Vous pouvez contacter Guiro par <a href="mailto:guy.raud@gmail.com">email</a>.  
 Vous pouvez aussi le recontrer a sa galerie:  
 7 rue du Port  
 Pont-Aven  
