@@ -7,21 +7,21 @@ tags: [blog, Guiro, galerie]
 ---
 La galerie
 <figure>
-	<img src="/images/homme-ex-tete.jpg">
+	<img src="/images/homme_exthete0.jpg">
 	<figcaption>Homme Extête</figcaption>
 </figure>
 
 <figure>
-        <img src="/images/equilibration.jpg">
+        <img src="/images/equilibration0.jpg">
         <figcaption>Equilibration</figcaption>
 </figure>
 
 <figure>
-        <img src="/images/houla-hop.jpg">
+        <img src="/images/36.15_Ula-Hop1.jp">
         <figcaption>Houla Hop</figcaption>
 </figure>
 
 <figure>
-        <img src="/images/vieux-jeux_l-avion.jpg">
+        <img src="/images/l_avion0.jpg">
         <figcaption>Vieux Jeux (l'avion)</figcaption>
 </figure>

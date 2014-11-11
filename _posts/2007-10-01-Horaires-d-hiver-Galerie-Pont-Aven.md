@@ -13,6 +13,6 @@ Guiro
 Pont Aven  
 
 <figure>
-	<img src="/images/billes.jpg">
+	<img src="/images/billes_en_tete0.jpg">
 	<figcaption>Billes en tête</figcaption>
 </figure>
