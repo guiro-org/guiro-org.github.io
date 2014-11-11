@@ -9,7 +9,7 @@ tags: [blog, Guiro, expo, Villa Daumier]
 Je serais présent au vernissage ainsi qu'au finissage à <a href="http://villadaumier.free.fr/accueil.html">la Villa Daumier</a>.  
 Le vernissage aura lieu à partir de 17h le samedi 29 novembre.  
 <figure>
-	<img src="/images/expo_villa_daumier.jpg">
+	<img src="/images/villa_daumier0.jpg">
 	<figcaption>Plaquette de l expo Villa Daumier</figcaption>
 </figure>
 
