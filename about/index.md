@@ -24,3 +24,9 @@ Guiro aussi recu des prix:
 2001: La Boite aux lettres: **2ème prix de sculpture** (Plouay - 56)  
 2000: Championnat du monde de cyclisme: **2ème prix de sculpture** (Plouay - 56)  
 
+---
+Vous pouvez contacter Guiro par <a href="mailto:guy.raud@gmail.com">email</a>.  
+Vous pouvez aussi le recontrer a sa galerie:  
+7 rue du Port  
+Pont-Aven  
+France   
