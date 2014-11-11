@@ -77,7 +77,7 @@ tags: [photo]
 <h1> Autres sculptures</h1> 
 <figure>
         <img src="/images/93_la_tour0.jpg">
-        <img src="/images/93_la_tour0.jpg">
+        <img src="/images/93_la_tour1.jpg">
         <figcaption>93 la tour: acier </figcaption>
 </figure><br />
 <figure>
@@ -106,7 +106,6 @@ tags: [photo]
 <figure>
         <img src="/images/exit_le_roi0.jpg">
         <img src="/images/exit_le_roi1.jpg">
-        <img src="/images/exit_le_roi2.jpg">
         <img src="/images/exit_le_roi3.jpg">
         <img src="/images/exit_le_roi4.jpg">
         <figcaption>Exit le roi: acier</figcaption>
