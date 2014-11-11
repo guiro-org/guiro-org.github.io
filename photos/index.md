@@ -274,7 +274,7 @@ tags: [photo]
         <figcaption>Porte citrouille: acier (coll. part.)</figcaption>
 </figure><br />
 <figure>
-        <img src="/images/porte_arum0.jpg">
+        <img src="/images/porte_des_arum0.jpg">
         <figcaption>Porte Arum: acier (coll. part.)</figcaption>
 </figure><br />
 <figure>
