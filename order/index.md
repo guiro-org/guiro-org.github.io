@@ -110,9 +110,10 @@ Commande privées
 ----------------
 **Paris** (France) - Nouvelles portes a Paris.  
 la porte des Arômes et la porte des Citrouilles.  
-<figure>
-        <img src="/images/arums-citrouilles.jpg">
-        <figcaption>la portes des Arums: acier</figcaption>
+<figure class="half">
+        <img src="/images/porte_des_arum0.jpg">
+        <img src="/images/porte-citrouilles4.jpg">
+        <figcaption>la porte des Arums, la porte des citrouilles: acier</figcaption>
 </figure><br />
 
 **Locminé** (France) - Portail.  
