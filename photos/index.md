@@ -13,7 +13,7 @@ tags: [photo]
 <figure>
         <img src="/images/toujours_plus_haut0.jpg">
         <img src="/images/toujours_plus_haut1.jpg">
-        <figcaption>toujours plus haut: acier et granite (coll. part.)</figcaption>
+        <figcaption>toujours plus haut: acier et granite </figcaption>
 </figure><br />
 
 <figure>
@@ -116,11 +116,6 @@ tags: [photo]
         <figcaption>petite Sauterie: acier (coll. part.)</figcaption>
 </figure><br />
 <figure>
-        <img src="/images/plus_vite0.jpg">
-        <img src="/images/plus_vite1.jpg">
-        <figcaption>plus vite: acier et granite (coll. part.)</figcaption>
-</figure><br />
-<figure>
         <img src="/images/prise_de_tete0.jpg">
         <figcaption>prise de tete: acier et inox (coll. part.)</figcaption>
 </figure><br />
@@ -169,6 +164,8 @@ tags: [photo]
         <img src="/images/toujours_plus_vite0.jpg">
         <img src="/images/toujours_plus_vite1.jpg">
         <img src="/images/toujours_plus_vite2.jpg">
+        <img src="/images/toujours_plus_vite3.jpg">
+        <img src="/images/toujours_plus_vite4.jpg">
         <figcaption>toujours plus vite: acier et granite (coll. part.)</figcaption>
 </figure><br />
 <figure>
