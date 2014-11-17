@@ -9,20 +9,20 @@ tags: [photo]
         <img src="/images/2ieme_rappel_avant_poursuite1.jpg">
         <img src="/images/2ieme_rappel_avant_poursuite2.jpg">
         <img src="/images/2ieme_rappel_avant_poursuite3.jpg">
-        <figcaption>2ieme rappel avant poursuite: inox </figcaption>
+        <figcaption>2i&egrave;me rappel avant poursuite: inox </figcaption>
 </figure><br />
 <figure>
         <img src="/images/ca_tombe_bien0.jpg">
         <img src="/images/ca_tombe_bien1.jpg">
         <img src="/images/ca_tombe_bien2.jpg">
         <img src="/images/ca_tombe_bien3.jpg">
-        <figcaption>ca tombe bien: inox </figcaption>
+        <figcaption>&ccedil;a tombe bien: inox </figcaption>
 </figure><br />
 <figure>
         <img src="/images/et_q_ca_saute0.jpg">
         <img src="/images/et_q_ca_saute1.jpg">
         <img src="/images/et_q_ca_saute2.jpg">
-        <figcaption>et q&#39;ça saute: inox et granite </figcaption>
+        <figcaption>et q&#39;&ccedil;a saute: inox et granite </figcaption>
 </figure><br />
 <figure>
         <img src="/images/la_belle_rouge0.jpg">
@@ -74,7 +74,7 @@ tags: [photo]
         <img src="/images/accroches_toi1.jpg">
         <img src="/images/accroches_toi2.jpg">
         <img src="/images/accroches_toi3.jpg">
-        <figcaption>accroche toi: inox (coll. part.)</figcaption>
+        <figcaption>accroches toi: inox (coll. part.)</figcaption>
 </figure><br />
 <figure>
         <img src="/images/cailloux_choux_genoux0.jpg">
@@ -133,7 +133,7 @@ tags: [photo]
         <img src="/images/hip-hop6.jpg">
         <img src="/images/hip-hop7.jpg">
         <img src="/images/hip-hop8.jpg">
-        <figcaption>hip-Hop: inox et granite (coll. part.)</figcaption>
+        <figcaption>HIP-HOP: inox et granite (coll. part.)</figcaption>
 </figure><br />
 <figure>
         <img src="/images/homme_exthete0.jpg">
@@ -147,7 +147,7 @@ tags: [photo]
         <img src="/images/la_trapeziste0.jpg">
         <img src="/images/la_trapeziste1.jpg">
         <img src="/images/la_trapeziste2.jpg">
-        <figcaption>la trapeziste: inox (coll. part.)</figcaption>
+        <figcaption>je m&#44;en balance: inox (coll. part.)</figcaption>
 </figure><br />
 <figure>
         <img src="/images/l_avion0.jpg">
@@ -178,11 +178,11 @@ tags: [photo]
 </figure><br />
 <figure>
         <img src="/images/prise_de_tete0.jpg">
-        <figcaption>prise de tete: acier et inox (coll. part.)</figcaption>
+        <figcaption>prise de t&#234;te: acier et inox (coll. part.)</figcaption>
 </figure><br />
 <figure>
         <img src="/images/qui_va_a_l_echasse0.jpg">
-        <figcaption>qui va a l&#39;&eacute;chasse: acier et granite (coll. part.)</figcaption>
+        <figcaption>qui va &#224; l&#39;&eacute;chasse: acier et granite (coll. part.)</figcaption>
 </figure><br />
 <figure>
         <img src="/images/red_dingue0.jpg">
@@ -206,7 +206,7 @@ tags: [photo]
         <img src="/images/s_envoyer_en_l_air3_1.jpg">
         <img src="/images/s_envoyer_en_l_air3_2.jpg">
         <img src="/images/s_envoyer_en_l_air3_3.jpg">
-        <figcaption>s&#39;envoyer en l&#39;air 3: inox et granite (coll. part.)</figcaption>
+        <figcaption>s&#39;envoyer en l&#39;air: inox et granite (coll. part.)</figcaption>
 </figure><br />
 <figure>
         <img src="/images/sur_le_fil0.jpg">
@@ -235,7 +235,7 @@ tags: [photo]
         <img src="/images/tu_montes_cheri0.jpg">
         <img src="/images/tu_montes_cheri1.jpg">
         <img src="/images/tu_montes_cheri2.jpg">
-        <figcaption>tu montes cheri: inox (coll. part.)</figcaption>
+        <figcaption>tu montes ch&#233;ri: inox (coll. part.)</figcaption>
 </figure><br />
 <figure>
         <img src="/images/tu_peux_toujours_courir0.jpg">
@@ -309,7 +309,7 @@ tags: [photo]
 <figure>
         <img src="/images/la_tete_dans_le_cul0.jpg">
         <img src="/images/la_tete_dans_le_cul1.jpg">
-        <figcaption>la tete dans le cul: bronze et granite</figcaption>
+        <figcaption>la t&#234;te dans le cul: bronze et granite</figcaption>
 </figure><br />
 <figure>
         <img src="/images/m_sieurs_dames0.jpg">
