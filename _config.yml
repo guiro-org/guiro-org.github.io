@@ -1,14 +1,14 @@
-title:            Guy Raud dit Guiro
-tagline:          Sculpteur plasticien
-description:      Personnages en mouvement à la limite de la rupture, de la chute
+title:            Guy Raud alias Guiro
+tagline:          visual artist
+description:      Moving characters on the verge of rupture
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              
 
 # Owner/author information
 owner:
-  name:           Guy Raud dit Guiro
+  name:           Guy Raud alias Guiro
   avatar:         bio-photo.jpg
-  bio:            "Guy Raud dit 'Guiro', créateur de mouvement Guiro nous parle d’élégance, de déséquilibre équilibré.Pour lui c’est avec l’acier et l’inox qu’il crée ses personnages pleins d'élégance, filiformes, toujours légers, toujours vibrants dans leur équilibre"
+  bio:            "Guy Raud alias 'Guiro', motion creator Guiro speaks of elegance, of imbalanced equilibrium.With steel and stainless steel, he creates its threadlike characters, always light, always vibrant in their balance."
   email:          guy.raud@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
@@ -22,21 +22,22 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Actualites
+  - title: News
     url: /
   - title: A propos
     url: /about
   - title: Articles
     url: /articles
-  - title: Expositions
+  - title: Exhibitions
     url: /expositions
   - title: Collections
     url: /photos
-  - title: Commandes Publiques
+  - title: Order/Public Procurement 
     url: /order
   - title: Contact
     url: /contact
-
+  - title: Francais
+    url: http://guiro.bzh
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
