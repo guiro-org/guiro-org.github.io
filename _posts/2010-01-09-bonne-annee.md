@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Bonne Année"
-description: "Quelques nouveautés à Pont-Aven"
+title: "happy new years"
+description: "Few new things in Pont-Aven"
 category: articles
 tags: [blog, Guiro, galerie]
 ---
-Bonne année à tous.  
-Quelques nouveautés à Pont-Aven:
+Happy new year to you all.
+Few new things in Pont-Aven:
 <figure>
 	<img src="/images/1er_rappel_avant_poursuite0.jpg">
         <img src="/images/1er_rappel_avant_poursuite1.jpg">

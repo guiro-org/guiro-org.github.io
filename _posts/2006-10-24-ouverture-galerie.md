@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Ouverture de galerie"
-description: "Ouvert dimanche, jours fériés et vacances scolaires de 14 à 19 heures "
+title: "Gallery grand opening"
+description: "Open on Sunday, bank holidays and school holiday from 2PM to 7PM"
 category: articles
 tags: [blog, Guiro, galerie]
 ---
-Ouverture de ma galerie à Pont-Aven  
-Ouvert dimanche, jours fériés et vacances scolaires de 14 à 19 heures  
+Grand opening of my own galerry in Pont-Aven.  
+Open on Sunday, bank holidays and school holiday from 2PM to 7PM.  
 
 7 rue du Port  
-Pont-Aven  
-Tel: 06 33 27 67 30  
+Pont-Aven 
+France 
+Phone: +33 633 276 730  

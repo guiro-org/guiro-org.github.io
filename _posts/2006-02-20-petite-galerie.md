@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Petite Galerie"
-description: "Ouverture de ma Galerie a Pont Aven"
+description: "Pont Aven's gallery grand opening"
 category: articles
-tags: [blog, Guiro, galerie]
+tags: [blog, Guiro, gallery]
 ---
 La galerie
 <figure>

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Au Fil De L'Aven"
-description: "L'art s'expose à Fleur d'Aven"
+description: "Art exhibits itself at Fleur d'Aven"
 category: articles
 tags: [blog, Guiro, expo]
 ---
-L'art s'expose à Fleur d'Aven
+Art exhibits itself at Fleur d'Aven
 <figure>
 	<img src="/images/of-fleur-d-aven.jpg">
-	<figcaption>Article du Ouest France</figcaption>
+	<figcaption>Ouest France's article</figcaption>
 </figure>

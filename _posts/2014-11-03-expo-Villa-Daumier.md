@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Expo Villa Daumier du 29 novembre au 21 Decembre 2014"
+title: "Villa Daumier's exhibition from November 29th to December 21th 2014"
 category: articles
 tags: [blog, Guiro, expo, Villa Daumier]
 ---
 
-Je serais présent au vernissage ainsi qu'au finissage à <a href="http://villadaumier.free.fr/accueil.html">la Villa Daumier</a>.  
-Le vernissage aura lieu à partir de 17h le samedi 29 novembre.  
+I will be at the vernissage and the finissage at the <a href="http://villadaumier.free.fr/accueil.html">Villa Daumier</a>.  
+The vernissage will be starting at 5pm Saturday 29th of november.
 <figure>
 	<img src="/images/villa_daumier0.jpg">
-	<figcaption>Plaquette de l expo Villa Daumier</figcaption>
+	<figcaption>Villa Daumier exhibition's poster</figcaption>
 </figure>
 
-Le finissage aura lieu le dimanche 21 decembre, où je serais aussi présent.  
-L'adresse:  La Villa Daumier, Chemin Bescherelle, Valmondois.  
+The finissage will take place on December 21rst, which I will attend too.
+The address:  La Villa Daumier, Chemin Bescherelle, Valmondois.  

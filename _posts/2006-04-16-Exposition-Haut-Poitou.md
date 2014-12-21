@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Exposition Haut Poitou"
-description: "Guiro expose à la biennale artistique du haut poitou"
+title: "Haut Poitou's exhibit"
+description: "Guiro will be at the biennale artistique du haut poitou"
 category: articles
 tags: [blog, Guiro, expo]
 ---
-GUIRO expose à la:  
+GUIRO exhibits at:  
 BIENNALE ARTISTIQUE DU HAUT POITOU  
-Du 4 au 11 juin 2006  
-Organisé par  
+From the 4th to 11th of June 2006  
+Organised by:  
 "les artistes du Val d'Envigne"  
 LENCLOITRE 36 140  

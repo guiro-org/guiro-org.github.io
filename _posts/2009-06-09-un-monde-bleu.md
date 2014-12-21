@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Un Monde Bleu"
-description: "Inauguration de la sculpture à la maison de l'enfance de Lanester"
+description: "Sculpture inauguration in Lanester's maison de l'enfance"
 category: articles
 tags: [blog, Guiro, Lucy Boureau, commande]
 ---
-Les 2 patios de la maison de la petite enfance sont depuis mardi 2 juin agrémentés de sculptures de Guiro et de Lucy Boureau.  
-Des bulles bleues s'agitent, les personnages, mobiles, jouent avec les bulles au gré du vent.  
+The 2 patios at the maison de la petite enfance are since Tuesday 2nd of june agremented by Guiro and Lucy Boureau own's sculpture.
+Blue bubbles are agitated, characters, mobile, play with the bubbles in the wind
 
 <figure>
 	<img src="/images/monde-bleu.jpg">

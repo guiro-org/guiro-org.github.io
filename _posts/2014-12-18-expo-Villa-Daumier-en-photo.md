@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Expo Villa Daumier en photo"
+title: "Villa Daumier'sexhibition in photos"
 category: articles
 tags: [blog, Guiro, expo, Villa Daumier]
 ---
 
-Juste a temps pour le finissage, les photos de l'exposition de <a href="http://villadaumier.free.fr/accueil.html">la Villa Daumier</a>.  
+Just in time for the <a href="http://villadaumier.free.fr/accueil.html">Villa Daumier</a> exhibition's finissage.
  
 <figure>
 	<img src="/images/Villa_Daumier0.jpg">

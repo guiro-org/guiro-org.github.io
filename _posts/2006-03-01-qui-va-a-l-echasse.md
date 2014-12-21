@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Qui Va à L'échasse..."
-description: "Sculpture de la serie 'vieux jeux'"
+description: "'vieux jeux' sculpture set"
 category: articles
 tags: [blog, Guiro, galerie]
 ---
-Sculpture de la serie "vieux jeux"
+Sculpture from the "vieux jeux" set.  
 <figure>
 	<img src="/images/qui_va_a_l_echasse0.jpg">
 	<figcaption>Qui va à l'êchasse</figcaption>

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Mon autre Blog"
-descriptiom: "Juste un mot sur mon autre blog"
+title: "My other Blog"
+descriptiom: "Just a word on my other blog"
 category: articles
 tags: [blog, Guiro]
 ---
 
-Certains d'entre vous connaissiez mon autre blog sur <a href="http://sculpteurguiro.blogspirit.com/">blogSpirit</a>.  
-J'espère que le site guiro.org vous plaira tout autant.  
-Je vais garder les deux pour les temps à venir.
+Few of you already knew my other blog on <a href="http://sculpteurguiro.blogspirit.com/">blogSpirit</a>.
+I hope this one will delight you as much.
+I will keep both for the forseable future.

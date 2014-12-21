@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Expo AKOI KONJOU"
-description: "Exposition du 20 février au 18 mars"
+title: "AKOI KONJOU exihibition"
+description: "20th February to 18th March exhibition"
 category: articles
 tags: [blog, Guiro, expo]
 ---
-Exposition du 20 février au 18 mars.  
-Hotel de ville de LANESTER.  
-Belle ballade en trois dimentions dans l'univers créatif des sculptures d'Art Fusion.  
+I'll be at the Lanester's town hall exhibit from the 20th February to 18th March.
+A 3D walk in the creative sculpture of "Art Fusion"
 <figure>
 	<img src="/images/akoi-konjou.jpg">
-	<figcaption>Affiche exposition Akoi Konjou</figcaption>
+	<figcaption>Akoi Konjou exhibit's poster</figcaption>
 </figure>

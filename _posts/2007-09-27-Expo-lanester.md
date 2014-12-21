@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Expo Lanester"
-description: "Guiro invité d'honneur au 12ème salon des artistes de Lanester"
+description: "Guiro guest of honor at the 12th Lanester artists show"
 category: articles
 tags: [blog, Guiro, expo]
 ---
-Guiro invité d'honneur au 12ème salon des artistes de Lanester.  
+Guiro guest of honor at the 12th Lanester artists show
 <figure>
 	<img src="/images/expo-lanester.jpg">
-	<figcaption>Affiche 12ème salon des artistes de Lanester.</figcaption>
+	<figcaption>12th Lanester artists show's poster</figcaption>
 </figure>
-Du 29 septembre au 13 octobre.  
-Hôtel de ville de Lanester 56 600.  
-Guiro invité à l'exposition OCRE ROUGE.  
+From the 29th of September to the 13th of October.
+Lanester's Town Hall 56 600.  
+Guiro guest at the "OCRE ROUGE" exhibition.  
