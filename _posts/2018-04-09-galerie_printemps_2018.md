@@ -16,11 +16,14 @@ A sneak peek into my gallery in Pont-Aven
         <img src="/images/galerie_printemps_2.JPG">
         <figcaption></figcaption>
 </figure>
-
+<br>
+<h3> Go Fast </h3>
 <figure>
         <img src="/images/go_fast.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> Roule Ma Poule </h3>
 <figure>
         <img src="/images/roule_ma_poule.JPG">
         <figcaption></figcaption>
@@ -33,6 +36,8 @@ A sneak peek into my gallery in Pont-Aven
         <img src="/images/roule_ma_poule_3.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> De la Main &agrave; La Main </h3>
 <figure>
         <img src="/images/de_la_main_a_la_main_2.JPG">
         <figcaption></figcaption>
@@ -45,24 +50,30 @@ A sneak peek into my gallery in Pont-Aven
         <img src="/images/de_la_main_a_la_main_4.JPG">
         <figcaption></figcaption>
 </figure>
-
+<br>
+<h3> Face &agrave; La Mer </h3>
 <figure>
         <img src="/images/face_a_la_mer.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> &ccedil;a Tombe Bien </h3>
 <figure>
         <img src="/images/ca_tombe_bien.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> Hip Hop - Fest Noz </h3>
 <figure>
         <img src="/images/hip_hip-fest_noz_1.JPG">
         <figcaption></figcaption>
 </figure>
-
 <figure>
         <img src="/images/hip_hip-fest_noz_2.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> Fest Noz </h3>
 <figure>
         <img src="/images/fest_noz1.JPG">
         <figcaption></figcaption>
@@ -71,7 +82,8 @@ A sneak peek into my gallery in Pont-Aven
         <img src="/images/fest_noz_2.JPG">
         <figcaption></figcaption>
 </figure>
-
+<br>
+<h3> La Voisine Du Dessus </h3>
 <figure>
         <img src="/images/la_voisine_du_dessus.JPG">
         <figcaption></figcaption>
@@ -88,6 +100,8 @@ A sneak peek into my gallery in Pont-Aven
         <img src="/images/la_voisine_du_dessus_4.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> La Venus De Guiro </h3>
 <figure>
         <img src="/images/la_venus_de_guiro.JPG">
         <figcaption></figcaption>
@@ -96,23 +110,30 @@ A sneak peek into my gallery in Pont-Aven
         <img src="/images/la_venus_de_guiro_2.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> Accroche Toi </h3>
 <figure>
         <img src="/images/acroche_toi.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> Partir en Vrille </h3>
 <figure>
-        <img src="/images/partir_en_vrie_1.JPG">
+        <img src="/images/partir_en_vrille_1.JPG">
         <figcaption></figcaption>
 </figure>
-
 <figure>
-        <img src="/images/partir_en_vrie_2.JPG">
+        <img src="/images/partir_en_vrille_2.JPG">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> Fille De La C&ocirc;te </h3>
 <figure>
         <img src="/images/file_de_la_cote.JPG	">
         <figcaption></figcaption>
 </figure>
+<br>
+<h3> Preum&#39;s </h3>
 <figure>
         <img src="/images/preum_1.JPG">
         <figcaption></figcaption>
@@ -121,16 +142,6 @@ A sneak peek into my gallery in Pont-Aven
         <img src="/images/preum_2.JPG">
         <figcaption></figcaption>
 </figure>
-
-<figure>
-        <img src="/images/Villa_Daumier32.jpg">
-        <figcaption></figcaption>
-</figure>
-<figure>
-        <img src="/images/Villa_Daumier33.jpg">
-        <figcaption></figcaption>
-</figure>
-
 <br>
 <h2>
 L'adresse: 7 Rue du Port, Pont-Aven, France.
